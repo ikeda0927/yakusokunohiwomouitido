@@ -1,0 +1,500 @@
+<resources>
+    <string name="app_name">約束の日をもう一度</string>
+    <string name="ring_1_1">でんわ：ブーッブーッブーッ</string>
+    <string name="MC_1_1">ゆう：あぁ！</string>
+    <string name="SC_1_1">りょう：今どこにいる？\nまさか・・・</string>
+    <string name="MC_1_2">ゆう：！　すぐ行く！</string>
+    <string name="T_1_1">またやってしまった……\n小さい頃からの夜更かしの習慣のせいか、約束をしていてもしょっちゅう寝過ごしてしまう。</string>
+    <string name="SC_1_2">りょう：待ち合わせ場所は…………</string>
+    <string name="MC_1_3">ゆう：ん？</string>
+    <string name="SC_1_3">りょう：いや、なんでもない。待ち合わせ場所は分かっているよな？　公民館前だぞ。</string>
+    <string name="MC_1_4">ゆう：了解。</string>
+    <string name="MC_1_5">ゆう：えぇと・・・集合場所は公民館前だったな。\n急いで行ってみよう。</string>
+
+    <string name="SC_2_1">りょう：また寝ていたのか。\n今日が日本にいる最終日だというのにやってくれるな……</string>
+    <string name="MC_2_1">ゆう：ごめん……で、今日は何をするんだっけ？</string>
+    <string name="SC_2_2">りょう：遅刻した上に用件まで忘れるとは……\nまぁいい。今日は俺のおすすめの映画を観に行くんだったろ？</string>
+    <string name="MC_2_2">ゆう：あぁ、そうだった。\nそれにしても、どうして待ち合わせ場所がここなんだ？</string>
+    <string name="SC_2_3">りょう：いやぁ、懐かしいだろ、ここ……\n昔よくここでしーちゃんや皆と遊んだよな</string>
+    <string name="T_2_1">しーちゃんとは僕たちの幼なじみで、いろんな友達と遊んだりしていたが、特に僕とりょうとしーちゃんの三人で遊ぶことが多かった。\nそして、僕は小さい頃しーちゃんとある約束をしていた……らしい……</string>
+    <string name="MC_2_3">ゆう：あぁ、で？</string>
+    <string name="SC_2_4">りょう：いや、まぁそれだけだ。\nさぁ、さっさと映画見に行こうぜ！</string>
+    <string name="MC_2_4">ゆう：そうだね、ただでさえ時間おくれてんだから。</string>
+    <string name="SC_2_5">りょう：誰かさんのせいでね。</string>
+    <string name="MC_2_5">ゆう：ごめん……</string>
+    <string name="T_2_2">その後、僕とりょうは映画を観て、駅前で夜ご飯を食べて帰宅した。そしてりょうは留学先でやらなきゃいけないことがあるんだと言い残していってしまった。</string>
+
+    <string name="SC_3_1">母： ゆう、朝よ！</string>
+    <string name="MC_3_1">ゆう：……あぁ、起きるよ。……</string>
+    <string name="SC_3_2">母： ゆう、聞いて。\nしーちゃんが昨晩帰ってこなかったらしいの……</string>
+    <string name="MC_3_2">ゆう：えっ？</string>
+    <string name="SC_3_3">母：今朝、しーちゃんのお母さんからしーちゃんが来ていないかって電話が来たの。</string>
+    <string name="SC_3_4">母：どこへ行ったのかも見当が付かないらしくて、それで可能性のあるお家に電話してるみたいなの。\n ゆう、しーちゃんのいそうな場所を探してみてくれない？</string>
+    <string name="MC_3_3">ゆう：あぁ、分かった。</string>
+    <string name="SC_3_5">母：よろしくね……</string>
+    <string name="MC_3_4">ゆう：なんだか前もこんなことがあったような……\nあのときは何食わぬ顔で帰ってきたみたいだし……\n取り敢えず、しーちゃんの家に行って話を聞いてくるか……</string>
+
+    <string name="SC_4_1">しーちゃんのお母さん：あら……来てくれたのね。</string>
+    <string name="T_4_1">平静を装っているが、その目には不安の色が窺える。</string>
+    <string name="MC_4_1">ゆう：えぇ、前みたいにひょっこり帰ってくるとは限りませんから……</string>
+    <string name="SC_4_2">しーちゃんのお母さん：ありがとう……でもね、全然見当が付かないのよ……\nしいて言うなら最近お菓子づくりに挑戦してることかしら……\nでもお菓子づくりが帰ってこないことに関係があるとは思えないし……</string>
+    <string name="MC_4_2">ゆう：お菓子づくり……うーん、取り敢えず探せるところを探してみます……</string>
+    <string name="T_4_2">正直言ってお菓子づくりがいなくなったことに関係があるとは到底思えない。勝手に入るのはあまり気が進まないが状況が状況なので取り敢えずしーちゃんの部屋でも見てみるか……</string>
+
+    <string name="MC_5_1">ゆう：……、ん？　指輪？\nあぁ、これは確かしーちゃんがおばあちゃんからもらった指輪だっけ。</string>
+    <string name="T_5_1">ん？　向こうに見えるのは幼稚園の頃の僕としーちゃんか。</string>
+    <string name="SC_5_1">しーちゃん(小さいころ)：……やくそくね？　</string>
+    <string name="MC_5_2">ゆう：うん、いいよ。\nおとなになったらね！</string>
+    <string name="T_5_2">約束……か。</string>
+    <string name="MC_5_3">ゆう：一通り見てみたが結局手がかりみたいなのはつかめなかったな。\n手がかり無しじゃ考えてても仕方がない……外へ出てみよう。</string>
+
+    <string name="MC_6_1">ゆう：もう昼か……\n朝ご飯も食べてないし、ちょっとここで食べてくか。</string>
+    <string name="MC_6_2">ゆう：なんだこれ？</string>
+    <string name="MC_6_3">ゆう：……一瞬目の前が暗くなった……</string>
+    <string name="MC_6_4">ゆう：!!　あれは！</string>
+    <!--　　   -->
+    <string name="SC_6_1">しーちゃん：！　ってなんだ、 ゆうか。\nどうしたの……？</string>
+    <string name="MC_6_5">ゆう：よかった、こんなとこにいたのか。</string>
+    <string name="SC_6_2">しーちゃん：？</string>
+    <string name="MC_6_6">ゆう：やっぱり前みたいにひょっこり戻ってくるんじゃないかって思ってたんだよ。</string>
+    <string name="SC_6_3">しーちゃん：なんの話？</string>
+    <string name="MC_6_7">ゆう：？　昨日の夜、帰っていないんだろ……？</string>
+    <string name="SC_6_4">しーちゃん：えっ？　昨日の夜はママと一緒にお菓子をつくってたんだよ？・・・あっ\nそ、それより、今日はこの後昨日言ってた資格か何かの試験じゃなかったの？</string>
+    <string name="MC_6_8">ゆう：それは三日前のことで……ん？</string>
+    <string name="SC_6_5">しーちゃん：大丈夫？　私この後ちょっとした用事があるから先帰るね。</string>
+    <string name="MC_6_9">ゆう：ん……あぁ……</string>
+    <string name="SC_6_6">しーちゃん：試験、頑張ってね！</string>
+    <string name="MC_6_10">ゆう：どういうことだ？　荷物も置いて来ちゃったことだし一旦カフェに戻ろう。</string>
+    <!--　　   -->
+    <string name="MC_6_11">ゆう：取り敢えず、この状況を整理して……</string>
+    <string name="MC_6_12">ゆう：……ちょっと寝てしまった。よし、取り敢えず状況を整理してみよう</string>
+    <string name="T_6_1_1">考えられることの一つ目は、しーちゃんはそもそもいなくなったりしてなくて、しーちゃんのお母さんの勘違いだったってことだ。</string>
+    <string name="T_6_1_2">だって現にさっき会話をしたし……\nでもさっきの会話の中でしーちゃんが三日前のことを今日のことのように話していたのが気になる……</string>
+    <string name="T_6_2_1">考えられることの二つ目は……いや、タイムスリップなんて考えられるか？</string>
+    <string name="T_6_2_2">もしタイムスリップを考えられるとしたら僕がどのタイミングか分からないけど三日前に戻ってしーちゃんと会話をしたことになって会話の内容は合うのだが……</string>
+    <string name="T_6_3">考えられることの三つ目、これが最後なのだが、もしかして、ドッキリ？\n確かにしーちゃんならそういうこともやりそうだ……</string>
+    <string name="MC_6_13">ゆう：取り敢えず今日はもう暗くなるから家に帰ろう。明日、またしーちゃんのお母さんに話を聞いてみよう。</string>
+
+    <string name="MC_7_1">ゆう：さて、しーちゃんのお母さんのとこに話を聞きに行くか。</string>
+
+    <string name="SC_8_1">しーちゃんのお母さん：……おはよう、 ゆうくん。</string>
+    <string name="MC_8_1">ゆう：まるでさっきまで泣いていたかのように目が充血している……</string>
+    <string name="MC_8_2">ゆう：おはようございます。まだ……帰ってきてないのですね……</string>
+    <string name="SC_8_2">しーちゃんのお母さん：えぇ…</string>
+    <string name="MC_8_3">ゆう：必ず捜し出します……</string>
+
+    <string name="MC_9_1">ゆう：この前はこの古い公衆電話にお世話になったな……</string>
+    <string name="MC_9_2">ゆう：今日はちゃんと携帯を持ってるから大丈夫だけど、たまに忘れちゃうんだよね……</string>
+    <string name="MC_9_3">ゆう：これは、昨日見た光？……</string>
+    <string name="MC_9_4">ゆう：あれ？　夕方になってる。\nそういえばこの前公衆電話を使ったのはこんな感じの夕方だったな。</string>
+    <string name="MC_9_5">ゆう：ってあれ？　携帯がない！？</string>
+    <string name="MC_9_6">ゆう：おかしいな、さっきまで携帯を持っていたのに……ん？</string>
+    <string name="MC_9_7">ゆう：あれはしーちゃん？　なんだか元気がなさそうだ</string>
+    <string name="MC_9_8">ゆう：それにどうして森の方から出てくるんだ？</string>
+    <string name="MC_9_9">ゆう：追いかけよう……ってこんなときに扉が開かない……</string>
+    <string name="MC_9_10">ゆう：こいつの建て付けの悪さには昔からよく悩まされたものだ。</string>
+    <string name="MC_9_11">ゆう：あぁ行ってしまう……</string>
+    <string name="MC_9_12">ゆう：……昼に戻ってる。</string>
+    <string name="MC_9_13">ゆう：さっきのはなんだ？　まるで夢を見ていたかのような気分だ。</string>
+    <string name="MC_9_14">ゆう：昨日のカフェでのことといいタイムスリップのような現象の前後には不思議な光が現れる。</string>
+    <string name="MC_9_15">ゆう：よし、もう一度カフェに戻ってみよう。確かめてみたいことがある。</string>
+
+
+    <string name="MC_10_1">ゆう：とりあえずいつもの席に座ろう。</string>
+    <string name="MC_10_2">ゆう：もしかしたら……</string>
+
+    <string name="MC_11_1">ゆう：しーちゃんは……いた！</string>
+    <string name="MC_11_2">ゆう：よし、じゃあ、このメモに「3/9」と書いて……</string>
+    <string name="MC_11_3">ゆう：しーちゃん。</string>
+    <string name="SC_11_1">しーちゃん：！　ってなんだ、 ゆうか。\nどうしたの……？</string>
+
+    <string name="MC_12_1">ゆう：昨日の夜何してた？</string>
+    <string name="SC_12_1">しーちゃん：……映画を観てたけど……どうして？</string>
+    <string name="MC_12_2">ゆう：えっ！　この前と違う！？</string>
+    <string name="MC_12_3">ゆう：映画を観てたの？　お菓子づくりじゃなくて？</string>
+    <string name="SC_12_2">しーちゃん：あ……あれ……知ってたの？\nあ……いや、ほら、私ってお菓子づくりとかするキャラじゃないからちょっと恥ずかしくって……</string>
+    <string name="MC_12_4">ゆう：あぁびっくりした。まぁいい、取りあえず目印をつけたメモを渡すか。</string>
+    <string name="MC_12_5">ゆう：そうだ,1つ頼みがあるんだけど、このメモを机の上に置いといてくれる？</string>
+    <string name="SC_12_3">しーちゃん：？　別にいいけど……</string>
+    <string name="MC_12_6">ゆう：ありがとう！　そういえばこの後用事あるんでしょ？　</string>
+    <string name="SC_12_4">しーちゃん：用事……？　用事っていうかお菓子をつくろうかなって思ってるだけだよ。</string>
+
+    <string name="MC_13_1">ゆう：今日は何日？　</string>
+    <string name="SC_13_1">しーちゃん：今日は三月五日だよ？　</string>
+    <string name="MC_13_2">ゆう：やっぱり戻っている……取り敢えず目印をつけたメモを渡すか。</string>
+    <string name="MC_13_3">ゆう：そうだ,1つ頼みがあるんだけど、このメモを机の上に置いといてくれる？</string>
+    <string name="SC_13_2">しーちゃん：？　別にいいけど……</string>
+    <string name="MC_13_4">ゆう：ありがとう！　そういえばこの後用事あるんでしょ？　</string>
+    <string name="SC_13_3">しーちゃん：うん、 ゆうこそ試験頑張ってね！</string>
+
+    <string name="MC_14_1">ゆう：じゃあ、またね</string>
+    <string name="SC_14_1">しーちゃん：うん！</string>
+    <string name="T_14_1">これでしーちゃんの机の上に目印をつけたメモがあれば僕が過去にいけることが証明され、さらに未来を変えることができることも証明される</string>
+    <string name="T_14_2">とりあえずカフェに戻ろう。</string>
+    <string name="MC_14_2">ゆう：メモがある！</string>
+    <string name="MC_14_3">ゆう：良かった。今日は一旦家に帰って本格的な捜索は明日にしよう。</string>
+
+    <string name="MC_15_1">ゆう：あぁ……よく寝た。</string>
+    <string name="MC_15_2">ゆう：さて、捜しに行くか……っていってもどこを探したらいいのやら……</string>
+    <string name="MC_15_3">ゆう：あ、そういえば昨日公衆電話からしーちゃんが森から出るのを見たよな。もしかしたらそこに何かヒントがあるかもしれない……</string>
+
+    <string name="MC_16_1">ゆう：昼間なのにちょっと暗いな……\nしーちゃんはこの森に何をしに来たんだろう。</string>
+    <string name="MC_16_2">ゆう：あっ、ウリボーだ！</string>
+    <string name="MC_16_3">ゆう：森から出てきたんだな、かわいいなぁ。</string>
+    <string name="MC_16_4">ゆう：まずい、大人のイノシシだ。逃げないと。</string>
+    <string name="MC_16_5">ゆう：危なかった……、親子だったんだな。\n暖かくなってきたから出てきたのかな……</string>
+
+    <string name="MC_17_1">ゆう：入ってから言うのもあれだけど、ほんとは勝手に入っちゃだめだよね……\nまぁ、今回は状況が状況だから仕方ないか……</string>
+    <string name="MC_17_2">ゆう：あれ？　この日記……見覚えがある……</string>
+    <string name="T_17_1">3月6日　きょうはぼくとりょうとしーちゃんの３にんであそんだ。3にんでもりにはいろうとしたらママにあぶないからもりにちかづくのはおとなになってからとおこられた。だから、おそとであそんでたらあめがふってきてぬれちゃったけどたのしかった。</string>
+    <string name="MC_17_3">ゆう：ん？　これは僕の日記だ！　どうしてこんな所に……？</string>
+    <string name="T_17_2">きょうはしーちゃんのおうちでふたりであそんだ。とってもたのしかった。それに、きょうはしーちゃんとだいじなやくそくをした。とってもだいじなやくそくだからわすれないようにしなきゃ。</string>
+    <string name="MC_17_4">ゆう：ん？　約束？</string>
+
+    <string name="SC_18_1">しーちゃん(小さいころ)： ゆう！</string>
+    <string name="MC_18_1">ゆう：し、しーちゃん？</string>
+    <string name="SC_18_2">しーちゃん(小さいころ)：そうよ、さっきからいっしょにあそんでたじゃない？　へんなの。</string>
+    <string name="MC_18_2">ゆう：『まさかこんな昔にまで戻れるなんて……』</string>
+    <string name="SC_18_3">しーちゃん(小さいころ)：で、どうなの？</string>
+    <string name="MC_18_3">ゆう：ど、どうなのって……？　</string>
+    <string name="SC_18_4">しーちゃん(小さいころ)：やくそくしてくれるの？</string>
+    <string name="MC_18_4">ゆう：や、やくそくって……？</string>
+    <string name="SC_18_5">しーちゃん(小さいころ)：も～、じゃあ。もういちどいうからね。こんどはちゃんときいててよ？</string>
+    <string name="MC_18_5">ゆう：わかった。</string>
+    <string name="SC_18_6">しーちゃん(小さいころ)：えっと、じゃあ、いうね？</string>
+    <string name="MC_18_6">ゆう：うん。</string>
+    <string name="SC_18_7">しーちゃん(小さいころ)：えっとね、おとなになったらいっしょにけっこんしてくれる？</string>
+    <string name="MC_18_7">ゆう：『！　指輪を取ったときに頭に浮かんだ光景はこの後のことか。まぁ、しーちゃんからの『プロポーズ？』に断る理由はないよな……』</string>
+    <string name="MC_18_8">ゆう：もちろん！</string>
+    <string name="SC_18_8">しーちゃん(小さいころ)：やったぁ！あ、そうだ！</string>
+    <string name="MC_18_9">ゆう：ん？</string>
+    <string name="SC_18_9">しーちゃん(小さいころ)：きのう3にんでもりにはいろうとしたら、おこられちゃったじゃない？</string>
+    <string name="MC_18_10">ゆう：『あぁ、覚えてはいないけど日記には書いてあったな……』</string>
+    <string name="MC_18_11">ゆう：うん。</string>
+    <string name="SC_18_10">しーちゃん(小さいころ)：おとなになったあかしってことで、そのもりで、ふたりで、あうことにしよ？　しぃはそこでまってるから。　やくそくね？</string>
+    <string name="MC_18_12">ゆう：うん、いいよ。\nおとなになったらね！</string>
+
+    <string name="MC_19_1">ゆう：ここは……あぁ、池の近くの小屋か。\nさっきの記憶を整理してみるか。</string>
+    <string name="MC_19_2">ゆう：あれは幼稚園の頃、しーちゃんの家で二人で遊んでたときのことで、どうやら僕としーちゃんが大人になったら結婚する約束をしたときのことみたいだ。</string>
+    <string name="MC_19_3">ゆう：確かその後、大人になったら二人で森で会うって約束もしたな……</string>
+    <string name="MC_19_4">ゆう：あれ？　一体いつ森で会うんだ……？　</string>
+    <string name="MC_19_5">ゆう：日記によると、約束をした日付は三月七日か……ちょうどしーちゃんがいなくなった日か……そういえば、僕としーちゃんはちょうど二十歳……、もし二十歳が大人ってことだとしたら……</string>
+    <string name="MC_19_6">ゆう：しーちゃんがいなくなった日、しーちゃんはあの森に行っていたのかもしれない……確証はないが、可能性はある。</string>
+    <string name="MC_19_7">ゆう：あの日僕は何をしていたんだっけ……そうだ、りょうと映画を観に行ったんだ。そのとき、公民館前で待ち合わせをしていたんだった。もし戻れたらしーちゃんに会うことができるかもしれない……一か八かいってみるか。</string>
+
+    <string name="MC_20_1">ゆう：あの光は……</string>
+    <string name="SC_20_1">りょう：いやぁ、懐かしいだろ、ここ……\n昔よくここでしーちゃんや皆と遊んだよな。</string>
+    <string name="MC_20_2">ゆう：！　唐突に話を始められると少しびっくりするな……ってそれどころじゃない、森へ行かないと。</string>
+    <string name="MC_20_3">ゆう：ほんとにごめん、急な用事ができた……っていうか、ずっと前から約束してたことがあるかもしれないから、また日本に帰ってきたらそのときはどこか遊びに行こう！</string>
+    <string name="SC_20_2">りょう：えっ！　おい、ちょっと、いきなりどうしたんだよ！？</string>
+    <string name="SC_20_3">りょう：はぁ……</string>
+
+    <string name="MC_21_1">ゆう：しーちゃんを探そう。</string>
+    <string name="SC_21_1">しーちゃん：キャー</string>
+    <string name="MC_21_2">ゆう：森の奥からだ！</string>
+    <string name="SC_21_2">しーちゃん：だれか……助けて……</string>
+    <string name="MC_21_3">ゆう：しーちゃん！　今助けるから！</string>
+    <string name="SC_21_3">しーちゃん：もうだめ……約束、覚えてくれてて嬉しかったよ……</string>
+    <string name="MC_21_4">ゆう：そ、そんな……</string>
+
+    <string name="MC_22_1">ゆう：まさか……あんなことがあったなんて……</string>
+    <string name="MC_22_2">ゆう：しーちゃんは僕との約束を覚えてくれてて、そのせいでいなくなってしまった。</string>
+    <string name="MC_22_3">ゆう：約束なんてしてなければ、また、しーちゃんと会うこともできていろんな話をすることもできたのに……</string>
+    <string name="MC_22_4">ゆう：約束……約束さえしていなければしーちゃんはあの森に行ってなかった……</string>
+    <string name="MC_22_5">ゆう：もしかしたら……\n明日の朝池の近くの小屋に行ってみよう。</string>
+    <string name="MC_22_6">ゆう：もしかしたらしーちゃんを助けられるかもしれない……\n急いで小屋に行こう。</string>
+
+    <string name="T_23_1">3月6日　きょうはぼくとりょうとしーちゃんの３にんであそんだ。３にんでもりにはいろうとしたらママにあぶなないからもりにちかづくのはおとなになってからとおこられた。だから、そのかわりにおそとであそんでたらあめがふってきてぬれちゃったけどたのしかった。</string>
+    <string name="T_23_2">3月7日　きょうはしーちゃんのおうちでふたりであそんだ。とってもたのしかった。それに、きょうはしーちゃんとだいじなやくそくをした。とってもだいじなやくそくだからわすれないようにしなきゃ。</string>
+    <string name="SC_23_1">しーちゃん： ゆう！</string>
+    <string name="MC_23_1">ゆう：あぁ、やくそく、だよね……？</string>
+    <string name="SC_23_2">しーちゃん：うん！</string>
+
+    <string name="MC_24_1">ゆう：けっこんのやくそくは……できない……ほかにすきなひとがいるから……</string>
+    <string name="SC_24_1">しーちゃん：そう……わかった。</string>
+    <string name="MC_24_2">ゆう：でもそのかわりに、ぼくのいちばんの「しんゆう」でいてくれる？</string>
+    <string name="SC_24_2">しーちゃん：いいよ！　やくそくね！</string>
+    <string name="MC_24_3">ゆう：うん！</string>
+    <string name="MC_24_4">ゆう：これでしーちゃんは助かったはず……確認してみるか</string>
+
+    <string name="SC_25_1">しーちゃんのお母さん：あら ゆうくん、早起きなのね。\nどうかしたの？</string>
+    <string name="MC_25_1">ゆう：しーちゃんは居ますか？</string>
+    <string name="SC_25_2">しーちゃんのお母さん：居ないわよ。</string>
+    <string name="MC_25_2">ゆう：えっ！？</string>
+    <string name="MC_25_3">ゆう：一体どういうことだ？\n助かったんじゃないのか？</string>
+    <string name="MC_25_4">ゆう：しーちゃんはどこへ……？</string>
+    <string name="SC_25_3">しーちゃんのお母さん：んーと、ヨーロッパのどこだったっけかな……</string>
+    <string name="MC_25_5">ゆう：ヨーロッパ？</string>
+    <string name="SC_25_4">しーちゃんのお母さん：そうよ。 ゆうくんのほうがよく知ってるんじゃないの？\n ゆうくんの後押しがあってお菓子づくりの修行をしたんだから。</string>
+    <string name="MC_25_6">ゆう：そうですか、良かった……</string>
+    <string name="SC_25_5">しーちゃんのお母さん：しぃは修行に行く前に向こうでいい人を見つけたら帰ってこないかもって言ってたからそれが心配だわ。しぃはどんなことでも有言実行するタイプだし……</string>
+    <string name="MC_25_7">ゆう：そうか、しーちゃんは無事で、その上目標に向かって頑張っているのか……\n帰ってこないかもしれないってのが気がかりだが、これで良かったんだな……</string>
+
+    <string name="MC_26_1">ゆう：はぁ……</string>
+    <string name="MC_26_2">ゆう：え……</string>
+
+    <string name="ring_27_1">でんわ：ブーッブーッブーッ</string>
+    <string name="SC_27_1">りょう：今どこにいる？　まさか……</string>
+    <string name="MC_27_1">ゆう：電話の相手はりょうで間違いない。ということは今すぐ森へ向かえば助けられるかもしれない</string>
+    <string name="SC_27_2">りょう：何の話だ？……ん？</string>
+    <string name="MC_27_2">ゆう：ごめん、一刻を争う事態なんだ、切る。</string>
+
+    <string name="MC_28_1">ゆう：しーちゃん！</string>
+    <string name="SC_28_1">しーちゃん：あら！</string>
+    <string name="SC_28_2">しーちゃん：覚えててくれたんだ！</string>
+    <string name="MC_28_2">ゆう：あ、ああ、もちろんだよ。忘れるわけないさ。ところでその抱えているのは何？</string>
+    <string name="SC_28_3">しーちゃん：イノシシの赤ちゃんみたいよ。近づいてきたから……</string>
+    <string name="MC_28_3">ゆう：しーちゃん、逃げよう！</string>
+
+    <string name="SC_29_1">しーちゃん：こ、ここ崖になってるよ……どうしよう……</string>
+    <string name="MC_29_1">ゆう：逃げて！</string>
+
+
+    <string name="MC_30_1">ゆう：……あれ……確か崖から落ちたはず……</string>
+    <string name="SC_30_1">母：あっ起きたのね！</string>
+    <string name="MC_30_2">ゆう：う、うん……</string>
+    <string name="SC_30_2">母：良かったわ、2日も寝てたのよ。</string>
+    <string name="MC_30_3">ゆう：2日も!?</string>
+    <string name="SC_30_3">母：さぁさぁずっと寝てたんだからまずはご飯を食べなさい。</string>
+    <string name="MC_30_4">ゆう：うん。</string>
+    <string name="MC_30_5">ゆう：そ、そうだ！　しーちゃんは無事なのか？</string>
+    <string name="MC_30_6">ゆう：ねぇお母さん、しーちゃんは？</string>
+    <string name="SC_30_4">母：そうそう、きこうと思ってたのよ。しーちゃんの居場所に心当たりはあるの？</string>
+    <string name="MC_30_7">ゆう：ってことは僕と一緒に助け出されたわけじゃなかったのか。</string>
+    <string name="MC_30_8">ゆう：捜してくる。</string>
+
+
+    <string name="SC_31_1">釣りのおじさん：ねぇ君、この辺りに大きな池は無かったかね。</string>
+    <string name="MC_31_1">ゆう：池ならこの道を向こうにまっすぐ行って右側にありますよ。</string>
+    <string name="SC_31_2">釣りのおじさん：そうかそうか、ありがとうね。</string>
+
+    <string name="SC_32_1">釣りのおじさん：おお、さっきの君か、君のおかげでやっと辿り着けたよ。</string>
+    <string name="MC_32_1">ゆう：いえいえ、とんでもな……</string>
+    <string name="SC_32_2">釣りのおじさん：おっ！来たぞ。</string>
+    <string name="SC_32_3">釣りのおじさん：あっ、しまった、網がない。そこの君、重ねて申し訳ないがそこの小屋に置いてある私の荷物の中から網を見つけて持ってきてくれないか？</string>
+
+    <string name="MC_33_1">ゆう：これかな？</string>
+    <string name="SC_33_1">釣りのおじさん：うわぁーーーー！</string>
+
+
+    <string name="MC_34_1">ゆう：あれ、お爺さんがいない。……ん？　池に何かいる？　</string>
+    <string name="SC_34_1">\?\?\?：……</string>
+    <string name="MC_34_2">ゆう：か、河童？　</string>
+    <string name="SC_34_2">かっぱ\?：……</string>
+    <string name="MC_34_3">ゆう：ってことはお爺さんはこの河童らしき生き物を見て逃げ出したってことだな。</string>
+    <string name="SC_34_3">かっぱ：……</string>
+    <string name="MC_34_4">ゆう：とはいえなんてかわいらしい河童なのだろう。</string>
+    <string name="SC_34_4">かっぱ：……おい。</string>
+    <string name="MC_34_5">ゆう：えっ……河童の声？　にしてはずいぶんと凄みのある声だ。</string>
+    <string name="SC_34_5">かっぱ：……おい。</string>
+    <string name="MC_34_6">ゆう：この見た目でこの声って……合わないにも程がある。</string>
+    <string name="SC_34_6">かっぱ：……おいって言ってるのが聞こえないのか。</string>
+    <string name="MC_34_7">ゆう：あ、すいません。</string>
+    <string name="SC_34_7">かっぱ：また会ったな。もうこんな時期か、あっという間だったな。</string>
+    <string name="MC_34_8">ゆう：……ん？　</string>
+    <string name="SC_34_8">かっぱ：まぁ、まだ会っていないんだから知らないだろうよ。</string>
+    <string name="MC_34_9">ゆう：えっ、どういうことですか？</string>
+    <string name="SC_34_9">かっぱ：腹が減った。取り敢えず何か食べられそうなものを持って来い。</string>
+    <string name="MC_34_10">ゆう：あ、はい……</string>
+
+    <string name="MC_35_1">ゆう：これで……どう？</string>
+    <string name="SC_35_1">かっぱ：おう、ありがとう。</string>
+    <string name="MC_35_2">ゆう：で、早速ですが、あなたは一体何者なんですか？</string>
+    <string name="SC_35_2">かっぱ：……何者かと訊かれてもなぁ。俺は気付いたらここにいただけだ。</string>
+    <string name="MC_35_3">ゆう：あなたは僕を知っているんですか？</string>
+    <string name="SC_35_3">かっぱ：俺はお前と会ったことがある。</string>
+    <string name="MC_35_4">ゆう：あなたはここで何をしているんですか？</string>
+    <string name="SC_35_4">かっぱ：俺は別に何かをするためにここにいるのではない。</string>
+    <string name="MC_35_5">ゆう：は、はぁ……</string>
+    <string name="MC_35_6">ゆう：こいつは一体何なんだろう……</string>
+    <string name="SC_35_5">かっぱ：さて、本題に入るか。</string>
+    <string name="MC_35_7">ゆう：本題？</string>
+    <string name="SC_35_6">かっぱ：まぁ、行ってみろ。</string>
+
+    <string name="MC_36_1">ゆう：ん……ここは……</string>
+    <string name="MC_36_2">ゆう：さっきの河童がいない……。それになんだか景色が変わったような気がする……</string>
+
+    <string name="MC_37_1">ゆう：君たちは……しーちゃんと、りょうとゆう君だね？</string>
+    <string name="SC_37_1">りょう(小さいころ)：そうだけど…お兄さんは誰？</string>
+    <string name="SC_37_2">ゆう(小さいころ)：不審者？</string>
+    <string name="MC_37_2">ゆう：僕はあの…ゆう君の親戚だよ。</string>
+    <string name="SC_37_3">しーちゃん(小さいころ)：あ、言われてみれば似てるかも……</string>
+    <string name="SC_37_4">りょう(小さいころ)：ほんとだ！似てる似てる！</string>
+    <string name="SC_37_5">ゆう(小さいころ)：そうかなぁ……</string>
+    <string name="SC_37_6">ゆう(小さいころ)：そんなことより僕たちに何か用？</string>
+    <string name="MC_37_3">ゆう：そういえば、僕は何故ここにいるんだろう……</string>
+    <string name="MC_37_4">ゆう：うーん……特にないんだけど……</string>
+    <string name="SC_37_7">りょう：あっ、そうだ！</string>
+    <string name="SC_37_8">しーちゃん(小さいころ)：ん？</string>
+    <string name="SC_37_9">りょう(小さいころ)：この前池の近くで遊んでたとき、ちょっと目を離したらボールがどっか行っちゃって、あの後ずっと探してたけど結局ボールは見つからなかったじゃん？</string>
+    <string name="SC_37_10">ゆう(小さいころ)：うん。</string>
+    <string name="SC_37_11">りょう(小さいころ)：だから一緒に探してもらおうよ。</string>
+    <string name="SC_37_12">しーちゃん(小さいころ)：なるほど……いいね。手伝ってもらおう。</string>
+    <string name="SC_37_13">しーちゃん(小さいころ)：じゃあ、先に池の近くに行ってるからすぐ来てね。</string>
+    <string name="SC_37_14">ゆう(小さいころ)：お、きたきた。遅かったね。</string>
+    <string name="SC_37_15">りょう(小さいころ)：じゃあ、どっか適当に探してみてね。</string>
+    <string name="SC_37_16">ゆう(小さいころ)：見つからないね……</string>
+    <string name="SC_37_17">りょう(小さいころ)：もう暗くなって来ちゃったし今日は帰ろうか……ってあれ？しーちゃんは？</string>
+    <string name="SC_37_18">ゆう(小さいころ):あれ？　さっきまで居たのに……</string>
+    <string name="SC_37_19">りょう：もしかして先に帰っちゃったとか？</string>
+    <string name="SC_37_20">ゆう(小さいころ)：僕たちに何も言わずに……？</string>
+    <string name="MC_37_5">ゆう：もう日が暮れて来ちゃったから先に帰ってて。あとは任せて。</string>
+    <string name="SC_37_21">ゆう(小さいころ)：分かった。僕たちも帰り際にしーちゃんの家によって帰ってきたかきいてみる。</string>
+    <string name="MC_37_6">ゆう：そういえば、河童はどこにいるんだろう……</string>
+
+    <string name="MC_38_1">ゆう：何だ、この石像は……変な形。</string>
+    <string name="SC_38_1">\?\?\?：おいおい、叩くんじゃねぇよ。</string>
+    <string name="MC_38_2">ゆう：うわっ！　誰？</string>
+    <string name="SC_38_2">\?\?\?それはこっちが訊きたいものだ。いきなり現れたたのはお前の方だろ。</string>
+    <string name="T_38_1">河童に過去に送られ、ボールを探すのを手伝い、今はしーちゃんを捜しているということを説明した。</string>
+    <string name="SC_38_3">かっぱ\?：ふーん、お前は俺のせいでここにいるってことか。</string>
+    <string name="SC_38_4">かっぱ：で、お前はしーちゃんとやらを捜しているんだったな。それらしき人間の子供は俺の所にいるぞ。</string>
+    <string name="MC_38_3">ゆう：ほんとですか！？　良かった……</string>
+    <string name="SC_38_5">かっぱ：良かった？　返される前提か。まぁ返してやらないわけではないが、条件がある。</string>
+    <string name="MC_38_4">ゆう：条件？</string>
+    <string name="SC_38_6">かっぱ：あぁ、俺は今腹が減っている。何か食べられそうなものを持って来い。</string>
+    <string name="MC_38_5">ゆう：またか……了解。</string>
+    <string name="SC_38_7">かっぱ：お、ありがとう。</string>
+    <string name="MC_38_6">ゆう：じゃあしーちゃんを……</string>
+    <string name="SC_38_8">かっぱ：あぁ、ほら……</string>
+    <string name="SC_38_9">しーちゃん(小さいころ)：あ、あれ……ここは……</string>
+    <string name="MC_38_7">ゆう：あぁ…良かった。</string>
+    <string name="SC_38_10">かっぱ：あっ！！　お兄ちゃんだ！　助かったぁ。</string>
+    <string name="MC_38_8">ゆう：良かった……じゃあしーちゃん、お家へ帰ろうか。</string>
+    <string name="SC_38_11">しーちゃん(小さいころ)：うん！</string>
+    <string name="SC_38_12">かっぱ：その子を家に帰したらまたここに来い、話がある。</string>
+    <string name="MC_38_9">ゆう：分かった。さぁしーちゃん、帰ろう。</string>
+
+    <string name="SC_39_1">しーちゃん(小さいころ)：ここで大丈夫だよ。ありがとね、お兄ちゃん。</string>
+    <string name="MC_39_1">ゆう：うん、もう迷わないようにね。</string>
+    <string name="SC_39_2">しーちゃん(小さいころ)：うん！　ありがとう。お礼にこれあげるね。</string>
+    <string name="MC_39_2">ゆう：あ、ありがとう。いいの？　もらっちゃって。</string>
+    <string name="SC_39_3">しーちゃん(小さいころ)：うん。ほんとはゆう君にあげようかなって思ってたんだけど、お兄ちゃんでも一緒だからね。</string>
+    <string name="MC_39_3">ゆう：えっ？</string>
+    <string name="SC_39_4">しーちゃん(小さいころ)：冗談だよ。でもその花は私の気持ちだからね。じゃあおやすみね。</string>
+    <string name="SC_39_5">かっぱ：おう、来たか。</string>
+    <string name="MC_39_4">ゆう：で、話って何ですか？</string>
+    <string name="SC_39_6">かっぱ：俺はお前に礼が言いたい。</string>
+    <string name="MC_39_5">ゆう：礼？　礼を言われる心当たりは無いような……</string>
+    <string name="SC_39_7">かっぱ：ここはなぁ、住むには良いがちょっと寂しすぎるんだ。たまに人がやってくるんだが、皆、俺が話しかけるとすぐ逃げ出してしまう。だが、あの子は俺と話をしてくれた。俺の声を聞いても逃げなかった。</string>
+    <string name="MC_39_6">ゆう：あの子ってしーちゃんのことか。</string>
+    <string name="SC_39_8_1">かっぱ：あぁ、それがただ嬉しかった。だからつい俺のそばに居て欲しくなっちまった。</string>
+    <string name="SC_39_8_2">かっぱ：だが、数年経ちゃあまた、お前と話すことができるらしいな。そういう希望が俺にもあるってことを伝えに来てくれてありがとな。</string>
+    <string name="SC_39_8_3">かっぱ：それじゃあまた会おう。</string>
+    <string name="SC_39_9">かっぱ：……どうだった？</string>
+    <string name="MC_39_7">ゆう：どうだったって言われても……信じられないようなことばかりで……</string>
+    <string name="SC_39_10">猟友会の人：あっ，ねぇ、君。</string>
+    <string name="MC_39_8">ゆう：ん？　何でしょう……？</string>
+    <string name="SC_39_11">猟友会の人：最近君は町に下りてきたイノシシを見たことがあるかい。</string>
+    <string name="MC_39_9">ゆう：あ、そういえば、森の入口にいたとき、町の方から大きなイノシシが来ました。</string>
+    <string name="SC_39_12">猟友会の人：そうか、貴重な情報をありがとう。</string>
+    <string name="MC_39_10">ゆう：あっ、そうだ。僕はしーちゃんを捜しているんだった。この河童に訊けばしーちゃんの居場所が分かるかもしれない。</string>
+    <string name="MC_39_11">ゆう：ちょっと訊きたいことがあるんですが、しーちゃんの居場所は分かりますか？</string>
+    <string name="SC_39_13">かっぱ：しーちゃん……あぁ、あの子か。</string>
+    <string name="MC_39_12">ゆう：居るんですか？</string>
+    <string name="SC_39_14">かっぱ：いや、数年前のことを思い出しただけだ。残念ながら居場所は知らんな……俺の所にもおらんし。</string>
+    <string name="MC_39_13">ゆう：そうですか……</string>
+    <string name="SC_39_15">かっぱ：手助けくらいならしてやろう。あの子にはちょっとだけ迷惑をかけたしな。</string>
+    <string name="T_39_1">ゆうはことの経緯を話した。</string>
+    <string name="SC_39_16">かっぱ：要するにイノシシに追われて森の奧に逃げ込み、お前は崖から落ち、しーちゃんは行方知れずになったって訳だな。</string>
+    <string name="MC_39_14">ゆう：目撃者がいればその人に訊きたいところだけど、あんな森の奧じゃ誰も見ていないだろうし……</string>
+    <string name="SC_39_17">かっぱ：居る。</string>
+    <string name="MC_39_15">ゆう：えっ？</string>
+    <string name="SC_39_18">かっぱ：お前を落としたイノシシが居るだろ。</string>
+    <string name="MC_39_16">ゆう：あぁ……でもイノシシに訊くなんて無理だし……</string>
+    <string name="SC_39_19">かっぱ：俺に任せとけ。</string>
+    <string name="MC_39_17">ゆう：イノシシと会話できるの？</string>
+    <string name="SC_39_20">かっぱ：俺と人間のお前とで話ができてるんだ、俺とイノシシとでも会話くらいできる。</string>
+    <string name="SC_39_21">じゃあ、早速だがここにイノシシを連れてきてもらおうか。</string>
+    <string name="MC_39_18">ゆう：連れてくるって……どうやって？</string>
+    <string name="SC_39_22">かっぱ：どこかに笛が隠されているってのを昔聞いたことがある。</string>
+    <string name="MC_39_19">ゆう：笛か……聞いたこと無いな……</string>
+    <string name="SC_39_23">かっぱ：その笛を使うとどんな動物でも呼び出せるらしい。</string>
+    <string name="MC_39_20">ゆう：ほう……じゃあ、その笛でイノシシを呼び出すと言うことか。</string>
+    <string name="SC_39_24">かっぱ：そうだ。</string>
+    <string name="MC_39_21">ゆう：じゃあ、探してくる。</string>
+
+    <string name="SC_40_1_1">笛：♪～</string>
+    <string name="SC_40_1_2">ゆう：……</string>
+    <string name="SC_40_1_3">かっぱ：お、来たな。</string>
+    <string name="SC_40_2">いのしし：！？</string>
+    <string name="SC_40_3">かっぱ：さて、話を始めるか。</string>
+    <string name="MC_40_1">ゆう：はい。</string>
+    <string name="MC_40_2">ゆう：さぁ、しーちゃんの居場所を聞き出してください。</string>
+    <string name="SC_40_4">かっぱ：……ふむふむ、お前と同じように海に突き落とした後は知らないといっている。</string>
+    <string name="MC_40_3">ゆう：そんな……</string>
+    <string name="SC_40_5">かっぱ：……ふむふむ、突き落とすに至った経緯を話してくれたぞ。</string>
+    <string name="MC_40_4">ゆう：はぁ……</string>
+    <string name="SC_40_6">かっぱ：まずな、こいつは公民館の近くで食べ物を探していたらしい。</string>
+    <string name="MC_40_5">ゆう：公民館か、りょうと待ち合わせをしていたのも公民館だったな。</string>
+    <string name="SC_40_7">かっぱ：そしたら、突然石を投げつけられたらしい。それに驚いて森まで逃げていったら、お前としーちゃんがいて、更には自分の子イノシシがしーちゃんに抱えられていたと。</string>
+    <string name="MC_40_6">ゆう：うん。</string>
+    <string name="SC_40_8">かっぱ：ただでさえ驚いていたところに自分の子イノシシに危険が迫ってるとのことで、我を忘れてしまったらしい。そういうわけで二人を突き落としてしまったのだと。</string>
+    <string name="MC_40_7">ゆう：そうだったのか……</string>
+    <string name="SC_40_9">かっぱ：あの後、子イノシシから話を聞くとしーちゃんに襲われてたんじゃなくてお菓子をもらってただけだったというのが分かったみたいだ。</string>
+    <string name="MC_40_8">ゆう：はぁ……何にも言葉が出てこない……</string>
+    <string name="SC_40_10">かっぱ：あのイノシシもやり過ぎたって言っていたが……まぁ、今日はもう家に帰ってゆっくり休みな。</string>
+
+    <string name="MC_41_1">ゆう：……はあ。</string>
+    <string name="MC_41_2">ゆう：そういえば、公民館前で石を投げつけられたって言ってたけど、あの時あの場所にいたのはりょうだけだったような……</string>
+    <string name="MC_41_3">ゆう：いまさらもう遅いか……寝よう……</string>
+    <string name="MC_41_4">ゆう：まさか！？</string>
+
+    <string name="SC_42_1">りょう：今どこにいる？　まさか……</string>
+    <string name="MC_42_1">ゆう：あ、あれ？　戻ってる！？</string>
+    <string name="MC_42_2">ゆう：きょ、今日は三月七日か？</string>
+    <string name="SC_42_2">りょう：あぁ、今起きたのか？　まったく……ん？　</string>
+    <string name="MC_42_3">ゆう：どうした？　まさか、近くにイノシシが居るのか？　</string>
+    <string name="SC_42_3">りょう：んん…分からん、茂みに何かいるみたいだが……</string>
+    <string name="MC_42_4">ゆう：きっとイノシシだ。石を投げるのを止めないと。</string>
+    <string name="MC_42_5">ゆう：りょう、石を投げるのは絶対にだめだからな。</string>
+    <string name="SC_42_4">りょう：えっ？　お前どっかから見てるのか？　ちょうど投げるところだったよ。</string>
+    <string name="MC_42_6">ゆう：あっ危なかったぁ。</string>
+    <string name="MC_42_7">ゆう：絶対にそいつを驚かすなよ。頼んだよ。</string>
+    <string name="SC_42_5">りょう：わ、分かったよ。</string>
+    <string name="MC_42_8">ゆう：あ、あと、本当に申し訳ないんだけど、今日、もっと大事な約束をしてたのを忘れてて、その……今日は……</string>
+    <string name="SC_42_6">りょう：分かったよ。そっち行ってこいよ。その代わり、次はしーちゃんと二人で俺の所まで遊びにこいよな。</string>
+    <string name="MC_42_9">ゆう：うん！　ありがとう。飛行機、気をつけてね。</string>
+    <string name="SC_42_7">りょう：おう、じゃあ、しっかりやれよな。</string>
+
+    <string name="MC_43_1">ゆう：しーちゃん！　</string>
+    <string name="SC_43_1">しーちゃん：あら！　</string>
+    <string name="SC_43_2">しーちゃん：覚えててくれたんだ！　</string>
+    <string name="MC_43_2">ゆう：あ、あぁ、もちろんだよ。忘れるわけないよ。ところでその抱えてるのは何？　</string>
+    <string name="SC_43_3">しーちゃん：イノシシの赤ちゃんみたいよ。近づいてきたから……あっ！　</string>
+    <string name="SC_43_4">しーちゃん：行っちゃった……</string>
+    <string name="SC_43_5">しーちゃん：それにしても遅かったね、もしかして……寝てた？　</string>
+    <string name="MC_43_3">ゆう：いや、まぁ、ここに来るまでにいろいろとあってね。</string>
+    <string name="SC_43_6">しーちゃん：ふふふっ、そうなの。まぁ、約束は果たせたんだし、お腹がすいてきちゃった。お菓子を作ってきたのよ。</string>
+    <string name="MC_43_4">ゆう：お菓子か、しーちゃん作れるんだ。</string>
+    <string name="SC_43_7">しーちゃん：そうよ、びっくりした？。ここじゃあなんだかあれだから池の辺りで食べよっか。</string>
+    <string name="MC_43_5">ゆう：うん。</string>
+
+    <string name="MC_44_1">ゆう：…ええと、</string>
+    <string name="MC_44_2">ゆう：しーちゃん。</string>
+    <string name="SC_44_1">しーちゃん：なぁに？</string>
+    <string name="MC_44_3">ゆう：これからもずっと一緒に居てくれる？　</string>
+    <string name="SC_44_2">しーちゃん：うん！\n待ってたよ。</string>
+
+
+    <string name="day_5">三月五日</string>
+    <string name="day_5_">三月五?日</string>
+    <string name="day_6">三月六日</string>
+    <string name="day_6_">三月六?日</string>
+    <string name="day_7">三月七日</string>
+    <string name="day_7_">三月七?日</string>
+    <string name="day_7_before">三月七日(昔)</string>
+    <string name="day_8">三月八日</string>
+    <string name="day_9">三月九日</string>
+    <string name="day_10">三月十日</string>
+    <string name="day_11">三月十一日</string>
+    <string name="day_12">三月十二日</string>
+    <string name="day_">三月?日</string>
+    <string name="day_m_">\?月?日</string>
+
+    <string name="credit">\n\n\nコード\nKohei Ikeda\n\n\nシナリオ\nKohei Ikeda\n\n\n絵\nKohei Ikeda\n\n\nBGM\nKohei Ikeda</string>
+
+    <string name="MC_44_"></string>
+    <string name="SC_44_"></string>
+    <string name="T_3_"></string>
+</resources>
